@@ -1,0 +1,9 @@
+file: ready_data.rds
+file_size: 3037972
+pin_hash: c4a68b4492c9a590
+type: rds
+title: 'ready_data: a pinned 765046 x 5 data frame'
+description: ~
+tags: ~
+created: 20240108T141336Z
+api_version: 1
